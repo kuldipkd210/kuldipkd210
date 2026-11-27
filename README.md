@@ -8,11 +8,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-school-os-v3-dark.svg"><img src="assets/project-school-os-v3-light.svg" width="49%" alt="School OS"></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-provider-api-v3-dark.svg"><img src="assets/project-provider-api-v3-light.svg" width="49%" alt="Provider API"></picture>
+<a href="https://github.com/kuldipkd210/Trace-task"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-trace-task-dark.svg"><img src="assets/project-trace-task-light.svg" width="49%" alt="Trace-task"></picture></a>&nbsp;<a href="https://github.com/kuldipkd210/pneumonia-Detection-and-classification-system"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pneumonia-dark.svg"><img src="assets/project-pneumonia-light.svg" width="49%" alt="Pneumonia Detection"></picture></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-shrt-qr-dark.svg"><img src="assets/project-shrt-qr-light.svg" width="49%" alt="Shrt-QR"></picture>&nbsp;<a href="https://github.com/kuldipkd210/Trace-task"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-trace-task-dark.svg"><img src="assets/project-trace-task-light.svg" width="49%" alt="Trace-task"></picture></a>
-
-<a href="https://github.com/kuldipkd210/pneumonia-Detection-and-classification-system"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pneumonia-dark.svg"><img src="assets/project-pneumonia-light.svg" width="49%" alt="Pneumonia Detection"></picture></a>&nbsp;<a href="https://github.com/kuldipkd210/Vehicle-Detection-Counting-System"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vehicle-dark.svg"><img src="assets/project-vehicle-light.svg" width="49%" alt="Vehicle Detection"></picture></a>
+<a href="https://github.com/kuldipkd210/Vehicle-Detection-Counting-System"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vehicle-dark.svg"><img src="assets/project-vehicle-light.svg" width="49%" alt="Vehicle Detection"></picture></a>&nbsp;<a href="https://github.com/kuldipkd210/Text-Sentiment-Analysis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sentiment-dark.svg"><img src="assets/project-sentiment-light.svg" width="49%" alt="Text Sentiment Analysis"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
