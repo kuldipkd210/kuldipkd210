@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="378" viewBox="0 0 840 378" role="img" aria-label="About me">
+<title>About me</title>
+<style>
+text{font-family:'Inter','Segoe UI',Roboto,-apple-system,BlinkMacSystemFont,sans-serif}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 42s linear infinite}
+.spin-r{transform-box:fill-box;transform-origin:center;animation:spin 30s linear infinite reverse}
+.bob{transform-box:fill-box;transform-origin:center;animation:bob 7s ease-in-out infinite}
+.breathe{transform-box:fill-box;transform-origin:center;animation:breathe 6s ease-in-out infinite}
+.wave{animation:wave 2.6s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes bob{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-8px) rotate(10deg)}}
+@keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.06)}}
+@keyframes wave{from{transform:translateX(0)}to{transform:translateX(-48px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="839" height="377" rx="27.5" fill="#f8faff" stroke="#d6dff5"/>
+<text x="34" y="48" fill="#0f172a" font-size="22" font-weight="800" letter-spacing="-0.3">About me</text>
+<rect x="708" y="27" width="100" height="24" rx="12" fill="#e2e8f8"/>
+<text x="758" y="43" text-anchor="middle" fill="#3730a3" font-size="11" font-weight="700" letter-spacing="0.8">OVERVIEW</text>
+<text x="34" y="84" fill="#475569" font-size="14" font-weight="500">Software engineer focused on resilient backends, real-time web apps, and practical AI tooling.</text>
+<text x="34" y="106" fill="#475569" font-size="14" font-weight="500">Working across Elixir/Phoenix, Python, and Ruby on Rails 8 to turn complex workflows into fast products.</text>
+<g><rect x="32" y="136" width="776" height="48" rx="14" fill="#eef2ff"/><rect x="44" y="145" width="30" height="30" rx="10" fill="#e2e8f8"/><text x="59" y="165" text-anchor="middle" fill="#4f46e5" font-size="14" font-weight="800">B</text><text x="88" y="165" fill="#0f172a" font-size="13.5" font-weight="700">Backend &amp; Full-Stack</text><text x="262" y="165" fill="#475569" font-size="13" font-weight="500">Specializing in Elixir / Phoenix, Python, and Ruby on Rails architectures.</text></g><g><rect x="32" y="192" width="776" height="48" rx="14" fill="#eef2ff"/><rect x="44" y="201" width="30" height="30" rx="10" fill="#e2e8f8"/><text x="59" y="221" text-anchor="middle" fill="#059669" font-size="14" font-weight="800">S</text><text x="88" y="221" fill="#0f172a" font-size="13.5" font-weight="700">Multi-Tenant SaaS</text><text x="262" y="221" fill="#475569" font-size="13" font-weight="500">Schema-per-tenant PostgreSQL, real-time LiveView dashboards &amp; Oban jobs.</text></g><g><rect x="32" y="248" width="776" height="48" rx="14" fill="#eef2ff"/><rect x="44" y="257" width="30" height="30" rx="10" fill="#e2e8f8"/><text x="59" y="277" text-anchor="middle" fill="#0284c7" font-size="14" font-weight="800">A</text><text x="88" y="277" fill="#0f172a" font-size="13.5" font-weight="700">AI &amp; Data Pipelines</text><text x="262" y="277" fill="#475569" font-size="13" font-weight="500">LLM tool-calling agents, MCP servers &amp; hybrid Elixir–Python engines.</text></g><g><rect x="32" y="304" width="776" height="48" rx="14" fill="#eef2ff"/><rect x="44" y="313" width="30" height="30" rx="10" fill="#e2e8f8"/><text x="59" y="333" text-anchor="middle" fill="#db2777" font-size="14" font-weight="800">R</text><text x="88" y="333" fill="#0f172a" font-size="13.5" font-weight="700">Modern Rails &amp; Tools</text><text x="262" y="333" fill="#475569" font-size="13" font-weight="500">Shipping Rails 8 (Hotwire, Solid Queue, Kamal) &amp; local-first dev tools.</text></g>
+</svg>
