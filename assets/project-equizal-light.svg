@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="412" height="214" viewBox="0 0 412 214" role="img" aria-label="Text Sentiment Analysis">
-<title>Text Sentiment Analysis</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="214" viewBox="0 0 412 214" role="img" aria-label="Equizal">
+<title>Equizal</title>
 <style>
 text{font-family:'Inter','Segoe UI',Roboto,-apple-system,BlinkMacSystemFont,sans-serif}
 .spin{transform-box:fill-box;transform-origin:center;animation:spin 42s linear infinite}
@@ -18,16 +18,16 @@ text{font-family:'Inter','Segoe UI',Roboto,-apple-system,BlinkMacSystemFont,sans
 <g clip-path="url(#pc)">
   <circle class="breathe" cx="380" cy="194" r="46" fill="#dbe4ff" opacity="0.65"/>
   <rect x="26" y="26" width="38" height="38" rx="12" fill="#eef2ff" stroke="#d6dff5"/>
-  <circle cx="45" cy="45" r="7" fill="#10b981"/>
-  <rect x="295" y="32" width="91" height="24" rx="12" fill="#e0e7ff"/>
-  <text x="340.5" y="48" text-anchor="middle" fill="#3730a3" font-size="11" font-weight="700">Open Source</text>
+  <circle cx="45" cy="45" r="7" fill="#a855f7"/>
+  <rect x="315" y="32" width="71" height="24" rx="12" fill="#e0e7ff"/>
+  <text x="350.5" y="48" text-anchor="middle" fill="#3730a3" font-size="11" font-weight="700">Personal</text>
 
-  <text x="26" y="96" fill="#0f172a" font-size="19" font-weight="800" letter-spacing="-0.3">Text Sentiment Analysis</text>
-  <text x="26" y="124" fill="#475569" font-size="13.5" font-weight="500">Flask &amp; TextBlob web app analyzing text</text>
-  <text x="26" y="144" fill="#475569" font-size="13.5" font-weight="500">polarity and subjectivity scores.</text>
+  <text x="26" y="96" fill="#0f172a" font-size="19" font-weight="800" letter-spacing="-0.3">Equizal</text>
+  <text x="26" y="124" fill="#475569" font-size="13.5" font-weight="500">Real-time synchronized music room platform</text>
+  <text x="26" y="144" fill="#475569" font-size="13.5" font-weight="500">with Phoenix Channels, Ash GraphQL &amp; LiveView.</text>
 
-  <circle cx="33" cy="180" r="5" fill="#10b981"/>
-  <text x="45" y="184.5" fill="#64748b" font-size="12.5" font-weight="700">Python · Flask · TextBlob</text>
+  <circle cx="33" cy="180" r="5" fill="#a855f7"/>
+  <text x="45" y="184.5" fill="#64748b" font-size="12.5" font-weight="700">Elixir · Phoenix · Ash · GraphQL</text>
 </g>
 <rect x="0.5" y="0.5" width="411" height="213" rx="23.5" fill="none" stroke="#d6dff5"/>
 </svg>
