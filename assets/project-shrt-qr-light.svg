@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="214" viewBox="0 0 412 214" role="img" aria-label="Shrt-QR">
+<title>Shrt-QR</title>
+<style>
+text{font-family:'Inter','Segoe UI',Roboto,-apple-system,BlinkMacSystemFont,sans-serif}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 42s linear infinite}
+.spin-r{transform-box:fill-box;transform-origin:center;animation:spin 30s linear infinite reverse}
+.bob{transform-box:fill-box;transform-origin:center;animation:bob 7s ease-in-out infinite}
+.breathe{transform-box:fill-box;transform-origin:center;animation:breathe 6s ease-in-out infinite}
+.wave{animation:wave 2.6s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes bob{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-8px) rotate(10deg)}}
+@keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.06)}}
+@keyframes wave{from{transform:translateX(0)}to{transform:translateX(-48px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<clipPath id="pc"><rect width="412" height="214" rx="24"/></clipPath>
+<rect width="412" height="214" rx="24" fill="#f8faff"/>
+<g clip-path="url(#pc)">
+  <path class="bob" d="M422.0 192.0 L421.9 193.6 L421.5 195.2 L420.8 196.7 L419.9 198.2 L418.8 199.6 L417.6 200.8 L416.3 202.0 L414.9 203.2 L413.5 204.2 L412.2 205.2 L410.9 206.1 L409.8 207.0 L408.7 208.0 L407.9 209.0 L407.2 210.0 L406.6 211.1 L406.2 212.4 L405.9 213.7 L405.7 215.2 L405.5 216.7 L405.3 218.4 L405.1 220.1 L404.8 221.9 L404.5 223.6 L404.0 225.3 L403.3 226.9 L402.5 228.4 L401.5 229.8 L400.3 230.9 L399.0 231.8 L397.5 232.5 L396.0 233.0 L394.3 233.2 L392.6 233.1 L390.9 232.9 L389.1 232.5 L387.4 231.9 L385.8 231.3 L384.2 230.6 L382.7 229.9 L381.2 229.3 L379.9 228.8 L378.5 228.3 L377.3 228.1 L376.0 228.0 L374.7 228.1 L373.5 228.3 L372.1 228.8 L370.8 229.3 L369.3 229.9 L367.8 230.6 L366.2 231.3 L364.6 231.9 L362.9 232.5 L361.1 232.9 L359.4 233.1 L357.7 233.2 L356.0 233.0 L354.5 232.5 L353.0 231.8 L351.7 230.9 L350.5 229.8 L349.5 228.4 L348.7 226.9 L348.0 225.3 L347.5 223.6 L347.2 221.9 L346.9 220.1 L346.7 218.4 L346.5 216.7 L346.3 215.2 L346.1 213.7 L345.8 212.4 L345.4 211.1 L344.8 210.0 L344.1 209.0 L343.3 208.0 L342.2 207.0 L341.1 206.1 L339.8 205.2 L338.5 204.2 L337.1 203.2 L335.7 202.0 L334.4 200.8 L333.2 199.6 L332.1 198.2 L331.2 196.7 L330.5 195.2 L330.1 193.6 L330.0 192.0 L330.1 190.4 L330.5 188.8 L331.2 187.3 L332.1 185.8 L333.2 184.4 L334.4 183.2 L335.7 182.0 L337.1 180.8 L338.5 179.8 L339.8 178.8 L341.1 177.9 L342.2 177.0 L343.3 176.0 L344.1 175.0 L344.8 174.0 L345.4 172.9 L345.8 171.6 L346.1 170.3 L346.3 168.8 L346.5 167.3 L346.7 165.6 L346.9 163.9 L347.2 162.1 L347.5 160.4 L348.0 158.7 L348.7 157.1 L349.5 155.6 L350.5 154.2 L351.7 153.1 L353.0 152.2 L354.5 151.5 L356.0 151.0 L357.7 150.8 L359.4 150.9 L361.1 151.1 L362.9 151.5 L364.6 152.1 L366.2 152.7 L367.8 153.4 L369.3 154.1 L370.8 154.7 L372.1 155.2 L373.5 155.7 L374.7 155.9 L376.0 156.0 L377.3 155.9 L378.5 155.7 L379.9 155.2 L381.2 154.7 L382.7 154.1 L384.2 153.4 L385.8 152.7 L387.4 152.1 L389.1 151.5 L390.9 151.1 L392.6 150.9 L394.3 150.8 L396.0 151.0 L397.5 151.5 L399.0 152.2 L400.3 153.1 L401.5 154.2 L402.5 155.6 L403.3 157.1 L404.0 158.7 L404.5 160.4 L404.8 162.1 L405.1 163.9 L405.3 165.6 L405.5 167.3 L405.7 168.8 L405.9 170.3 L406.2 171.6 L406.6 172.9 L407.2 174.0 L407.9 175.0 L408.7 176.0 L409.8 177.0 L410.9 177.9 L412.2 178.8 L413.5 179.8 L414.9 180.8 L416.3 182.0 L417.6 183.2 L418.8 184.4 L419.9 185.8 L420.8 187.3 L421.5 188.8 L421.9 190.4 Z" fill="#ede9fe" opacity="0.65"/>
+  <rect x="26" y="26" width="38" height="38" rx="12" fill="#eef2ff" stroke="#d6dff5"/>
+  <circle cx="45" cy="45" r="7" fill="#ef4444"/>
+  <rect x="326" y="32" width="60" height="24" rx="12" fill="#e0e7ff"/>
+  <text x="356.0" y="48" text-anchor="middle" fill="#3730a3" font-size="11" font-weight="700">Rails 8</text>
+
+  <text x="26" y="96" fill="#0f172a" font-size="19" font-weight="800" letter-spacing="-0.3">Shrt-QR</text>
+  <text x="26" y="124" fill="#475569" font-size="13.5" font-weight="500">Full-stack URL shortener &amp; QR code</text>
+  <text x="26" y="144" fill="#475569" font-size="13.5" font-weight="500">platform with Hotwire, Solid Queue &amp; Kamal.</text>
+
+  <circle cx="33" cy="180" r="5" fill="#ef4444"/>
+  <text x="45" y="184.5" fill="#64748b" font-size="12.5" font-weight="700">Ruby on Rails 8 · Postgres</text>
+</g>
+<rect x="0.5" y="0.5" width="411" height="213" rx="23.5" fill="none" stroke="#d6dff5"/>
+</svg>
