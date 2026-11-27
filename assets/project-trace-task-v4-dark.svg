@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="196" viewBox="0 0 412 196" role="img" aria-label="Trace-task">
+<title>Trace-task</title>
+<style>
+text{font-family:'Space Grotesk','Host Grotesk','Segoe UI',system-ui,-apple-system,sans-serif}
+.mono{font-family:'JetBrains Mono','IBM Plex Mono','SFMono-Regular',Consolas,monospace}
+.pulse{stroke-dasharray:10 18;animation:flow 2.8s linear infinite}
+.pulse-slow{stroke-dasharray:8 22;animation:flow 4.2s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-56}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="411" height="195" rx="6" fill="#16191f" stroke="#262a33"/>
+<rect x="0.5" y="0.5" width="411" height="3" rx="1.5" fill="#ea580c"/>
+
+<text x="24" y="38" class="mono" fill="#fb923c" font-size="12" font-weight="700">[02]</text>
+<rect x="291" y="22" width="95" height="22" rx="3" fill="#0c0e12" stroke="#3a404d"/>
+<text x="338.5" y="37" text-anchor="middle" class="mono" fill="#c5c0b6" font-size="11">open source</text>
+
+<text x="24" y="76" fill="#f2efe9" font-size="19" font-weight="700" letter-spacing="-0.3">Trace-task</text>
+<text x="24" y="106" fill="#c5c0b6" font-size="13.5">Keyboard-first desktop task manager with</text>
+<text x="24" y="126" fill="#c5c0b6" font-size="13.5">natural language date parsing and voice dictation.</text>
+
+<line x1="24" y1="150" x2="388" y2="150" stroke="#262a33" stroke-width="1"/>
+<text x="24" y="174" class="mono" fill="#837e75" font-size="11.5">dart / desktop</text>
+</svg>
